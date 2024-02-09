@@ -1,0 +1,10 @@
+# GunGame by officialdaddel
+# -> https://github.com/officialdaddel
+
+# -------------------------
+# avalibale placeholder:
+# » %gungame_prefix%
+# -------------------------
+
+prefix: "&6GunGame &8| &7"
+no-permissions: "%gungame_prefix% &4You don't have permissions to execute this command!"
